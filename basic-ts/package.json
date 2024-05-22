@@ -1,0 +1,17 @@
+{
+  "name": "basic-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sqlite.org/sqlite-wasm": "^3.45.3-build3"
+  },
+  "devDependencies": {
+    "vite": "^5.2.11"
+  }
+}
